@@ -20,10 +20,4 @@ Test Coverage
   24 Positive Functional Test Cases
   10 Negative Functional Test Cases
   02 UI-related Validations
-Project Structure
-Swifttranslator-Test-Automation/
-│
-├── tests/                # Test case files
-├── playwright.config.js  # Playwright confi   
-├── README.md             # Project documentation
-└── test-results/         # Test execution reports
+
